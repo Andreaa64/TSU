@@ -1,0 +1,5 @@
+cara professoressa, vogliamo avvisarla che ogni funzione da lei richiesta e stata fatta, ma dobbiamo ancora 
+integrarla completamente alla parte grafica, ovvero alla pagina index.jsp.
+
+In productView.jsp troverete ogni funzione inerente al prodotto.
+
